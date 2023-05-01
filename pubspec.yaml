@@ -29,7 +29,7 @@ dependencies:
   cupertino_icons: ^1.0.0
   provider: ^5.0.0
   encrypt: ^5.0.0
-  flutter_svg: ^0.22.0
+  flutter_svg: ^0.23.0
   syncfusion_flutter_gauges: ^19.1.59
   animated_bottom_navigation_bar: ^0.3.2
   hive: ^2.0.4
