@@ -34,7 +34,7 @@ dependencies:
   animated_bottom_navigation_bar: ^1.0.0
   hive: ^2.0.4
   hive_flutter: ^1.0.0
-  month_picker_dialog: ^0.8.0
+  month_picker_dialog: ^2.0.0
   uuid: ^3.0.4
 
 
